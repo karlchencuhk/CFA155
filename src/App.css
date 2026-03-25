@@ -1,0 +1,4 @@
+/* 重置与基本样式 */
+* { box-sizing: border-box; }
+body, #root { min-height: 100vh; margin: 0; }
+button { cursor: pointer; }
